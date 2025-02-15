@@ -1,12 +1,11 @@
 ## Miembros
 
-* Black panther
+* Black Panther
 * Black Widow
-* Capitán America
+* Capitán América
 * Capitán Marvel
 * Falcon
 * Hank Pym
-* Hawkeye
 * Hulk
 * Iron Man
 * Luke Cage
@@ -16,4 +15,4 @@
 * Thor
 * Vision
 * Wasp
-* Antman
+* Ant-Man
