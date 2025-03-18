@@ -16,3 +16,4 @@
 * Vision
 * Wasp
 * Ant-Man
+* Spider-Man: Peter Parker / Telaraña, trepamuros, sentido arácnido. 
