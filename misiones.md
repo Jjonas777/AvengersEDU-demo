@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Misiones
 
 1. Investigar al Doctor Doom.
